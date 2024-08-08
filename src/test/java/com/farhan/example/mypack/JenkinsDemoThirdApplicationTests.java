@@ -12,6 +12,7 @@ class JenkinsDemoThirdApplicationTests {
 
 	public static Logger logger = LoggerFactory.getLogger(JenkinsDemoThirdApplicationTests.class);
 	
+	
 	@Test
 	void contextLoads() {
 		logger.info("<=======Started to execute contextLoads() method===============>");
